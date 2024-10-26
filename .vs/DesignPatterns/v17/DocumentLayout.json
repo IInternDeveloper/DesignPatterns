@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\nitro-user\\desktop\\github\\designpatterns\\designpatterns\\patterns\\singleton\\threadsafesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\patterns\\singleton\\threadsafesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\nitro-user\\desktop\\github\\designpatterns\\designpatterns\\patterns\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\patterns\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\nitro-user\\desktop\\github\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1666858208:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:531151818:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreadSafeSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Patterns\\Singleton\\ThreadSafeSingleton.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Patterns\\Singleton\\ThreadSafeSingleton.cs",
+              "ToolTip": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Patterns\\Singleton\\ThreadSafeSingleton.cs",
+              "RelativeToolTip": "DesignPatterns\\Patterns\\Singleton\\ThreadSafeSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:25:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Patterns\\Singleton\\Singleton.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Patterns\\Singleton\\Singleton.cs",
+              "ToolTip": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Patterns\\Singleton\\Singleton.cs",
+              "RelativeToolTip": "DesignPatterns\\Patterns\\Singleton\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:02:27.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:59:40.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
