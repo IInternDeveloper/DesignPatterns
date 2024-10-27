@@ -1,7 +1,7 @@
 ﻿namespace DesignPatterns.Patterns.Builder;
 
 public class Product {
-    private List<string> _parts = [];
+    private readonly List<string> _parts = [];
 
     public void Add(string part) {
         _parts.Add(part);

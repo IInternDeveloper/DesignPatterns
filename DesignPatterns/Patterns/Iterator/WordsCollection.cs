@@ -3,7 +3,7 @@
 namespace DesignPatterns.Patterns.Iterator;
 
 public class WordsCollection : IteratorAggregate {
-    private List<string> _collection = [];
+    private readonly List<string> _collection = [];
     private bool _direction = false;
 
     public void ReverseDirection() {

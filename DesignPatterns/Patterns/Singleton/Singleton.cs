@@ -1,7 +1,7 @@
 ﻿namespace DesignPatterns.Patterns.Singleton;
 
 public sealed class Singleton {
-    private static Singleton _instance;
+    private static Singleton? _instance;
 
     private Singleton() { }
 

@@ -6,8 +6,10 @@ using DesignPatterns.Patterns.FactoryMethod;
 using DesignPatterns.Patterns.Iterator;
 using DesignPatterns.Patterns.Singleton;
 
-public class Program {
-    static void Main(string[] args) {
+namespace DesignPatterns;
+
+public static class Program {
+    private static void Main(string[] args) {
         // Code for testing
         
         Console.WriteLine();

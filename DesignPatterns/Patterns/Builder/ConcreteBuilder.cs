@@ -6,11 +6,7 @@ public class ConcreteBuilder : IBuilder {
     public ConcreteBuilder() {
         Reset();
     }
-
-    public void Reset() {
-        _product = new Product();
-    }
-
+    
     public void BuildPartA() {
         _product.Add("PartA1");
     }
@@ -28,5 +24,9 @@ public class ConcreteBuilder : IBuilder {
         Reset();
 
         return result;
+    }
+    
+    private void Reset() {
+        _product = new Product();
     }
 }

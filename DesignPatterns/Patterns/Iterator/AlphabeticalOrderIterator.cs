@@ -3,17 +3,17 @@
 namespace DesignPatterns.Patterns.Iterator;
 
 public class AlphabeticalOrderIterator : Iterator {
-    private WordsCollection _collection;
+    private readonly WordsCollection _collection;
     
+    private readonly bool _reverse;
     private int _position = -1;
-    private bool _reverse = false;
 
     public AlphabeticalOrderIterator(WordsCollection collection, bool reverse = false) {
         _collection = collection;
         _reverse = reverse;
 
         if (reverse) {
-            _position = _collection.GetItems().Count();
+            _position = _collection.GetItems().Count;
         }
     }
 
