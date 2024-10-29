@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using DesignPatterns.Patterns.AbstractFactory;
+using DesignPatterns.Patterns.Adapter;
 using DesignPatterns.Patterns.Builder;
 using DesignPatterns.Patterns.FactoryMethod;
 using DesignPatterns.Patterns.Iterator;
