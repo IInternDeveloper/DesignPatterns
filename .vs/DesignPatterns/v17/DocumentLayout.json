@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\nitro-user\\desktop\\github\\designpatterns\\designpatterns\\patterns\\singleton\\threadsafesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\patterns\\singleton\\threadsafesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\nitro-user\\desktop\\github\\designpatterns\\designpatterns\\patterns\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\patterns\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\nitro-user\\desktop\\github\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C26D04D-8955-4107-AB7E-24FBE5E4847C}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -55,38 +47,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ThreadSafeSingleton.cs",
-              "DocumentMoniker": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Patterns\\Singleton\\ThreadSafeSingleton.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Patterns\\Singleton\\ThreadSafeSingleton.cs",
-              "ToolTip": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Patterns\\Singleton\\ThreadSafeSingleton.cs",
-              "RelativeToolTip": "DesignPatterns\\Patterns\\Singleton\\ThreadSafeSingleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T18:25:08.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Singleton.cs",
-              "DocumentMoniker": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Patterns\\Singleton\\Singleton.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Patterns\\Singleton\\Singleton.cs",
-              "ToolTip": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Patterns\\Singleton\\Singleton.cs",
-              "RelativeToolTip": "DesignPatterns\\Patterns\\Singleton\\Singleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T18:02:27.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Program.cs",
               "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
               "ToolTip": "C:\\Users\\Nitro-User\\Desktop\\GitHub\\DesignPatterns\\DesignPatterns\\Program.cs",
               "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T17:59:40.321Z",
               "EditorCaption": ""

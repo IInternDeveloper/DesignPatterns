@@ -7,6 +7,7 @@ using DesignPatterns.Patterns.Builder;
 using DesignPatterns.Patterns.Decorator;
 using DesignPatterns.Patterns.FactoryMethod;
 using DesignPatterns.Patterns.Iterator;
+using DesignPatterns.Patterns.Observer;
 using DesignPatterns.Patterns.Singleton;
 using DesignPatterns.Patterns.Strategy;
 using DesignPatterns.Patterns.UoW;
